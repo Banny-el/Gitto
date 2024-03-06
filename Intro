@@ -2,3 +2,8 @@ hello this is banny edition 1.
 #Banny
 Added a new line.
 
+<<<<<<< HEAD
+=======
+# Vars
+Added a new line.
+>>>>>>> 07b1df712e0a5558fe8ff65d79127fcd24724434
